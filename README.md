@@ -1,7 +1,7 @@
 - Digital Intuition, Message Sequence Analysis
 - Social engineering researchers can use my findings or contact me to collaborate.
-- Author: Aleksey Zaitsevsky (Aleksej Zaicevskij, Алексей Зайцевский, Lamat) https://lamat.me/   www.linkedin.com/in/lamat/
-- Analytica.Today project  http://intuition.digital/   http://analytica.today/   http://analytica.team/
+- Author: Aleksey Zaitsevsky (Aleksej Zaicevskij, Алексей Зайцевский, Lamat) https://lamat.me/
+- Project Analytica.Today http://intuition.digital/
 
 Files
 - index.html  - desription
